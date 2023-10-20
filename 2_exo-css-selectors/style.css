@@ -1,0 +1,53 @@
+S_+n°1/*.div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}*/
+
+S_+n°2/* div :first-child {
+    font-size: large;
+}*/
+
+S_+n°3/*ul > li {
+    float: none;
+}*/
+
+S_+n°4/*ul :last-child {
+    font-size: small;
+}*/
+
+S_+n°5/* body ::p{
+    font-weight: 200;
+}*/
+
+
+S_+n°6/* a[href^="https" {
+    color: aliceblue;
+}*/
+
+S_+n°7/* a[href$=".com"] {
+    font-weight: 100;
+}*/
+
+S_+n°8/* a[href*="example"]{
+    font-weight: 200;
+}*/
+
+S_+n°9/* table > td {
+    font-weight: 300;
+}*/
+
+S_+n°10/* tr:first-of-type {
+    font-family: Arial, Helvetica, sans-serif;
+}*/
+
+S_+n°11/* 
+
+S_+n°12
+
+S_+n°13/*div > container {
+    font: 1em sans-serif;
+}*/
+
+S_+n°14/* .box {
+    font: 1em sans-serif;
+}*/
+S_+n°15 
