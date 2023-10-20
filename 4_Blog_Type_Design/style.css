@@ -1,0 +1,87 @@
+.img1 {
+    height: 200px ;
+    width: 300 px ;
+}
+nav {
+    float: right ;
+    width: auto ;
+    list-style-type: none ;
+    display: inline ;
+    word-spacing: 0.5em ;
+}
+ul > li {
+    display:inline ;
+    word-spacing: 0.5em ;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+span {
+    background-color: orange;
+}
+.User1 {
+    height: 50px;
+    width: 50px;
+}
+.img2{
+    height: 200px;
+    width: 300 px;
+}
+.User2 {
+    height: 50px;
+    width: 50px;
+}
+.img3 {
+    height: 200px;
+    width: 300 px;
+}
+.User3 {
+    height: 50px;
+    width: 50px;
+}
+.img4 {
+    height: 200px;
+    width: 300 px;
+}
+.User4 {
+    height: 50px;
+    width: 50px;
+}
+@font-face {
+    font-family: 'Goldbill XS';
+    src: local('Goldbill XS Book'), local('Goldbill-XS-Book'),
+        url('/Users/rudy/Desktop/BeWeb/Evaluation/Eval_M4/4_Blog_Type_Design/Assets/Goldbill-XSBook.woff2') format('woff2'),
+        url('/Users/rudy/Desktop/BeWeb/Evaluation/Eval_M4/4_Blog_Type_Design/Assets/Goldbill-XSBook.woff') format('woff'),
+        url('/Users/rudy/Desktop/BeWeb/Evaluation/Eval_M4/4_Blog_Type_Design/Assets/Goldbill-XSBook.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    margin: 20px;
+}
+.p{
+    display: inline;
+}
+.img {
+    display: inline ;
+}
+.second {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: space-between
+  width: 500px;
+  height: 500px;
+}
+footer > p {
+    text-align: right;
+}
+.er {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: space-between
+    width: 500px;
+    height: 500px;
+}
